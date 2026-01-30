@@ -1,0 +1,25 @@
+Duration: 2 weeks
+
+Math for ML
+
+Linear Algebra
+
+Vectors, matrices
+
+Dot product
+
+Matrix multiplication
+
+Probability & Statistics
+
+Mean, median, variance, std
+
+Probability basics
+
+Normal distribution
+
+Calculus (only intuition)
+
+Derivatives
+
+Gradient concept
