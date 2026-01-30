@@ -1,0 +1,185 @@
+✅ MACHINE LEARNING SYLLABUS (BEST VERSION)
+🧱 PHASE 0: Foundations (Required)
+
+Duration: 2 weeks
+
+Math for ML
+
+Linear Algebra
+
+Vectors, matrices
+
+Dot product
+
+Matrix multiplication
+
+Probability & Statistics
+
+Mean, median, variance, std
+
+Probability basics
+
+Normal distribution
+
+Calculus (only intuition)
+
+Derivatives
+
+Gradient concept
+
+📌 Focus on intuition, not proofs
+
+🐍 PHASE 1: Python for Machine Learning
+
+Duration: 2 weeks
+
+Core Libraries
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Skills
+
+Data loading
+
+Data cleaning
+
+Data visualization
+
+Handling missing values
+
+📊 PHASE 2: Exploratory Data Analysis (EDA)
+
+Duration: 1 week
+
+Data understanding
+
+Univariate analysis
+
+Bivariate analysis
+
+Correlation
+
+Feature distributions
+
+Outlier detection
+
+🤖 PHASE 3: Machine Learning Core (MOST IMPORTANT)
+
+Duration: 6 weeks
+
+Supervised Learning
+
+Regression
+
+Linear Regression
+
+Multiple Linear Regression
+
+Polynomial Regression
+
+Classification
+
+Logistic Regression
+
+KNN
+
+Naive Bayes
+
+Decision Tree
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+Unsupervised Learning
+
+K-Means Clustering
+
+Hierarchical Clustering
+
+PCA (Dimensionality Reduction)
+
+Model Evaluation
+
+Train/Test split
+
+Cross Validation
+
+Accuracy, Precision, Recall, F1-score
+
+Confusion Matrix
+
+Bias vs Variance
+
+Overfitting vs Underfitting
+
+⚙️ PHASE 4: Feature Engineering & Model Tuning
+
+Duration: 2 weeks
+
+Feature scaling
+
+Encoding categorical data
+
+Feature selection
+
+Hyperparameter tuning
+
+GridSearchCV
+
+Pipeline
+
+🧠 PHASE 5: Intro to Deep Learning (Optional but Recommended)
+
+Duration: 2 weeks
+
+Neural Networks basics
+
+Perceptron
+
+Activation functions
+
+Loss functions
+
+Gradient Descent
+
+Intro to TensorFlow / PyTorch
+
+🚀 PHASE 6: Projects (MANDATORY)
+
+Duration: 3 weeks
+
+Beginner Projects
+
+House Price Prediction
+
+Student Performance Prediction
+
+Intermediate Projects
+
+Spam Email Classifier
+
+Customer Churn Prediction
+
+Advanced Project
+
+End-to-End ML Project
+(Data → EDA → Model → Deployment)
+
+| Phase               | Duration                  |
+| ------------------- | ------------------------- |
+| Foundations         | 2 weeks                   |
+| Python ML           | 2 weeks                   |
+| EDA                 | 1 week                    |
+| Core ML             | 6 weeks                   |
+| Feature Engineering | 2 weeks                   |
+| Deep Learning       | 2 weeks                   |
+| Projects            | 3 weeks                   |
+| **TOTAL**           | **18 weeks (4.5 months)** |
+
